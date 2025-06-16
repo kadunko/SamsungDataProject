@@ -1,5 +1,5 @@
 "Subject": An identifier of a volunteer, and 30 volunteers participated in this experiment. 
-The integer numbers between 1 and 30 were    assigned as identifiers. 
+The integer numbers between 1 and 30 were assigned as identifiers. 
 The variable "Subject" is a categorical variable.     
 "Label": the type of activity that a volunteer participated in while wearing a smartphone (Samsung Galaxy S II) on the waist.    
 
