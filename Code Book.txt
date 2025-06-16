@@ -1,7 +1,7 @@
-"Subject": An identifier of a volunteer, and 30 volunteers participated in this experiment. The integer numbers between 1 and 30 were assigned as identifiers. The variable "Subject" is a categorical variable. 
-"Label": the type of activity that a volunteer participated in while wearing a smartphone (Samsung Galaxy S II) on the waist. 
+"Subject": An identifier of a volunteer, and 30 volunteers participated in this experiment. The integer numbers between 1 and 30 were    assigned as identifiers. The variable "Subject" is a categorical variable.     
+"Label": the type of activity that a volunteer participated in while wearing a smartphone (Samsung Galaxy S II) on the waist.    
 
-Note: AveSA_V denotes the average measurements of the variable V at a subject and activity level. The measurement averages of the following variables for each subject and activity are reported in tidyData.txt file. Additionally, the names of features are described in tidyFeatures.txt file. The descriptions of the following variables were provided in features_info.txt file. 
+Note: AveSA_V denotes the average measurements of the variable V at a subject and activity level. The measurement averages of the     following variables for each subject and activity are reported in tidyData.txt file. Additionally, the names of features are described in tidyFeatures.txt file. The descriptions of the following variables were provided in features_info.txt file.   
 
 "tBodyAcc-mean()-X"
 "tBodyAcc-mean()-Y"
